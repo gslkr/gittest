@@ -1,2 +1,2 @@
-a='hello';
-disp(a);
+
+sim('simtest')
